@@ -1,5 +1,7 @@
 # XZeus v 1.0
 **Executable Protection Toolkit For Exe Windows:** 
+<br><br>
+<image src="logo.png" width="500" height="300">
 
 **Autor:** Rodolfo Hernandez Baz
 
@@ -12,7 +14,7 @@ La aplicación cuenta con una interfaz gráfica moderna, oscura y personalizada,
 ## Capturas de Pantalla
 
 *(Nota: La interfaz utiliza un tema oscuro con acentos en verde neón #39FF14 y botones de estilo macOS).*
-<image src="logo.png" alt="Descripción de la imagen">
+
 
 ## Características Principales
 
