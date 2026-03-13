@@ -1,9 +1,6 @@
 # XZeus v 1.0
-
-<br><br>
+<br>
 <image src="logo.png" width="500" height="300">
-**Executable Protection Toolkit For Exe Windows:** 
-**Autor:** Rodolfo Hernandez Baz
 
 ## Descripción
 
@@ -13,7 +10,8 @@ La aplicación cuenta con una interfaz gráfica moderna, oscura y personalizada,
 
 ## Capturas de Pantalla
 
-*(Nota: La interfaz utiliza un tema oscuro con acentos en verde neón #39FF14 y botones de estilo macOS).*
+<image src="screen.png" width="400" height="400">
+*(Nota: La interfaz utiliza un tema oscuro con acentos en verde neón y botones de estilo macOS).*
 
 
 ## Características Principales
@@ -36,7 +34,7 @@ La aplicación permite aplicar múltiples capas de protección de forma simultá
 4.  **Ejecución Dinámica (RunPE):**
     *   El ejecutable resultante extrae el payload en memoria o en un archivo temporal y lo ejecuta sin dejar rastros en disco permanentes (técnica de dropper).
 
-5.  **Compresión UPX:**
+5.  **Compresión UPX Scramble Xmodificada:**
     *   Integración con UPX para comprimir el ejecutable final y reducir su tamaño.
     *   **Fake UPX Version:** Permite "parchear" la cabecera de UPX con un número de versión falso (ej. v99) para confundir a las herramientas de análisis automático y desempaquetadores.
 
