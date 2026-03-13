@@ -43,7 +43,7 @@ La aplicación permite aplicar múltiples capas de protección de forma simultá
 
 ## Requisitos Previos
 
-Para que Xprotector funcione correctamente, el sistema debe cumplir con los siguientes requisitos:
+Para que XZeus v 1.0 funcione correctamente, el sistema debe cumplir con los siguientes requisitos:
 
 ### 1. Python y Librerías
 *   **Python 3.x** instalado.
@@ -66,7 +66,7 @@ Si deseas utilizar la función de compresión, necesitas el ejecutable `upx.exe`
 2.  **Logo (Opcional):** Si deseas ver el logo en la interfaz, coloca una imagen llamada `logo.png` en la misma carpeta.
 3.  **Ejecución:**
     ```bash
-    python Xprotector.py
+    python XZeus.py
     ```
 
 ### Guía Rápida de Uso
