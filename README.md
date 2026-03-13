@@ -8,7 +8,7 @@
 <br>
 ## Descripción
 
-**XZeus v 1.0r** es una aplicación de escritorio desarrollada y diseñada para proteger, empaquetar y ofuscar ejecutables de Windows (`.exe`). La herramienta actúa como un "Packer/Protector", envolviendo el ejecutable original dentro de otro ejecutable que contiene capas de seguridad y desencriptación.
+**XZeus v 1.0** Es una aplicación de escritorio desarrollada y diseñada para proteger, empaquetar y ofuscar ejecutables de Windows (`.exe`). La herramienta actúa como un "Packer/Protector", envolviendo el ejecutable original dentro de otro ejecutable que contiene capas de seguridad y desencriptación.
 
 La aplicación cuenta con una interfaz gráfica moderna, oscura y personalizada, con acentos en color neón, diseñada para ser intuitiva pero potente.
 
