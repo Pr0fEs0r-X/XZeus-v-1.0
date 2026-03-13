@@ -2,6 +2,10 @@
 <br>
 <image src="logo.png" width="500" height="300">
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-GCC-blue?logo=c&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+<br>
 ## Descripción
 
 **XZeus v 1.0r** es una aplicación de escritorio desarrollada y diseñada para proteger, empaquetar y ofuscar ejecutables de Windows (`.exe`). La herramienta actúa como un "Packer/Protector", envolviendo el ejecutable original dentro de otro ejecutable que contiene capas de seguridad y desencriptación.
